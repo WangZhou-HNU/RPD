@@ -1,7 +1,7 @@
 # Unlocking Hard Carbon Capacity Limits in Alkali-Ion Batteries by Optimizing the Relative Pore Distance
 
 
-## 📦 Requirements
+##  Requirements
 
 Ensure you have Python 3.7+ installed. The following libraries are required:
 
@@ -13,3 +13,7 @@ matplotlib
 shap
 openpyxl
 optuna
+
+## Usage
+
+python train_xgboost.py
