@@ -21,6 +21,17 @@ openpyxl==3.1.5
 
 optuna==4.8.0
 
+## Demo
+
+Place Data_Total.xlsx. in the same directory as the code.
+
+Install dependencies.
+
+Run the script from the terminal.
+
+The program will automatically generate figures and Excel results inside the Training_Results/ folder.
+
+
 ## Usage
 
 python train_xgboost.py
