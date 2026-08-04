@@ -1,4 +1,4 @@
-# Unlocking Hard Carbon Capacity Limits in Alkali-Ion Batteries by Optimizing the Relative Pore Distance
+# Unlocking Hard Carbon Capacity Limits in Alkali-Ion Batteries by Optimizing Relative Pore Distance
 
 
 ##  Requirements
