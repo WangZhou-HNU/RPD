@@ -23,15 +23,15 @@ optuna==4.8.0
 
 ## Demo
 
-Place Data_Total.xlsx. in the same directory as the code.
+Place Data.xlsx in the same directory as the code.
 
 Install dependencies.
 
 Run the script from the terminal.
 
-The program will automatically generate figures and Excel results inside the Training_Results/ folder.
+The program will automatically generate figures, Excel files, and trained models inside the Modeling_Results/ folder.
 
 
 ## Usage
 
-python train_xgboost.py
+python model_xgboost_train.py
